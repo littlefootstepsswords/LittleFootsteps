@@ -1,0 +1,7 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Build complete'"
+  }
+}
